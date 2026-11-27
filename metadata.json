@@ -1,0 +1,6 @@
+{
+  "name": "VayuShield — Urban Air Quality & Low-Emission Assistant",
+  "description": "Environmental intelligence dashboard for personalized urban air quality protection, PM2.5 exposure reduction, and low-emission daily planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
